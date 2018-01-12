@@ -18,14 +18,16 @@ Notice that my points may not by obvious for people in various countries, especi
 Also many questions shouldn't be asked and you need to be careful. Many of these points are better to ask anonymously or your colleages
 working there.
 
+**Feel free to contribute**
+
 ## General
 - What does company do?
-- Are you going to work with Hindu developers?
 - What is company structure?
 - Who will be your manager?
 - How many managers will you have and what are their qualifications?
 - How does decision making process look like?
 - Will your managers/bosses do micromanagement?
+- Are you going to work with Hindu developers?
 - Does company support community?
 - Is team specialized or rather language-agnostic?
 - Does company contribute to open source?
