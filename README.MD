@@ -26,7 +26,7 @@ working there.
 - How many managers will you have and what are their qualifications?
 - How does the decision-making process look?
 - Will your managers/bosses do micromanagement?
-- Are you going to work with Hindu developers?
+- Are you going to work with possibly bad developers from different cultures?
 - Does the company support the community?
 - Is the team specialized or rather language-agnostic?
 - Does the company contribute to open source?
