@@ -70,6 +70,8 @@ programmer among salesmen etc?
 ## Hardware and software
 - Will you be able to work on any OS you choose from?
 - Will you be able to pick a computer you like?
+- How often will my computer or company phone will be renewed?
+- Will I be able to buyback computer or phone from company after some time?
 - Will you be able to choose displays and accessories?
 - Will you be able to choose IDE/Software you like, including paid?
 - Will you get admin account on your machine?
@@ -106,6 +108,7 @@ programmer among salesmen etc?
 - What are the working hours?
 - Are working hours flexible?
   - Can you work longer one day to leave earlier another day?
+- Are requested overhours paid or only collected? If paid, will it be 100%, 150%, 200% etc?
   
 ## Team's work culture
 - How big is the team?
