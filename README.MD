@@ -1,12 +1,12 @@
 # Interview questions for future employers
 
-#### What's behind the idea
+#### What's behind the idea 💡
 
 You can see many lists with questions asked by employers, mostly about specific,
 work-related topics. Companies have whole departments, standards and methodologies 
 keeping their recruitment process effective through hundreds of interviews.
 
-However, IT is a bit different and we developers receive dozens of offers for various companies.
+However, IT is a bit different and we developers receive dozens of offers from various companies.
 When we eventually decide to change our job, we often end up with several offers and don't know which exactly to pick (or reject).
 
 Recently I did some interviews on this topic, to help myself choose from two similar job offers
