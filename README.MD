@@ -65,7 +65,7 @@ programmer among salesmen etc?
   - Will you wait for access/credentials hours/days, or weeks/months? 
 - How is the project automated? 
 - How often are there releases?
-- Do they have continues integration?
+- Do they have continuous integration?
 
 ## Hardware and software
 - Will you be able to work on any OS you choose from?
