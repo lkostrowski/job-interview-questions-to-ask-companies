@@ -1,4 +1,4 @@
-# Interview questions for future employers
+# Interview questions for future employers 😲
 
 #### What's behind the idea 💡
 
@@ -74,7 +74,7 @@ programmer among salesmen etc?
 - Will I be able to buyback computer or phone from company after some time?
 - Will you be able to choose displays and accessories?
 - Will you be able to choose IDE/Software you like, including paid?
-- Will you get admin account on your machine?
+- Will you get admin/root account on your machine?
 - What chair will you sit on?
 - What software company use?
   - Slack?
@@ -82,6 +82,7 @@ programmer among salesmen etc?
   - Other software you like / you don't
 
 ## Company culture
+- Does company have written culture book (set of established rules to follow)?
 - Can you work remotely on demand?
 - Can you work remotely if you catch a cold instead of taking a day off?
 - Will you be able to work remotely after some period of time?
@@ -115,7 +116,7 @@ programmer among salesmen etc?
 - Is the team divided into roles?
   - Does the team include designers, managers?
 - Is there agile?
-  - How do they treat Scrum / Kanban, are they strict about it?
+  - How do they treat Scrum/Kanban, are they strict about it?
 - Can you pick technology?
 - Are the used technologies usually open source or in-house?
 - Does the team invest some time in self-development?
@@ -123,6 +124,7 @@ programmer among salesmen etc?
 - Is there a QA department?
 - How much impact will you have on project development?
   - Will you be able to propose ideas?
+- Does the team have established some processes, like QA, planning, code review, documentation standards?
   
 ## Office
 - Are there fresh fruits/snacks/drinks/ whatever you like?
@@ -139,6 +141,7 @@ programmer among salesmen etc?
 ## Trips
 - Are there company business trips?
 - Are they obligatory?
+- How trips costs will be refund?
 
 ## Extra
 - Are you going to be spied on by your employer ;)
