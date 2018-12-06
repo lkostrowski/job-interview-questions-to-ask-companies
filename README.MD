@@ -82,6 +82,8 @@ programmer among salesmen etc?
   - Other software you like / you don't
 
 ## Company culture
+- Does company care about values (both company's and employee's) during recruitment?
+  - Are people hired only by skills or maybe also soft skills?
 - Does company have written culture book (set of established rules to follow)?
 - Can you work remotely on demand?
 - Can you work remotely if you catch a cold instead of taking a day off?
