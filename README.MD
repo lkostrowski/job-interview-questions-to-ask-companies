@@ -19,14 +19,14 @@ working there.
 
 **Feel free to contribute**
 
-## General
+## 🚀General
 - What does the company do?
 - What is the company structure?
 - Who will your manager be?
 - How many managers will you have and what are their qualifications?
 - How does the decision-making process look?
 - Will your managers/bosses do micromanagement?
-- Are you going to work with possibly bad developers from different cultures?
+- Are you going to work with developers from different countries and cultures?
 - Does the company support the community?
 - Is the team specialized or rather language-agnostic?
 - Does the company contribute to open source?
@@ -40,7 +40,7 @@ working there.
 - Will you work with other developers (especially related to your field) or will you be a single
 programmer among salesmen etc?
 
-## Salary and benefits
+## 💰Salary and benefits
 - What kind of contracts can you choose from?
 - Will you receive the same benefits on various contract types?
   - Amount of holidays
@@ -54,7 +54,7 @@ programmer among salesmen etc?
 - When can you expect the first raise?
 - Are there any extra material benefits like stock or yearly bonus?
 
-## Technology
+## 🖥️Technology
 - What technology is used in the whole company?
 - What technologies are used in the project you are applying for?
 - Is there legacy code and will you work with it?
@@ -67,7 +67,7 @@ programmer among salesmen etc?
 - How often are there releases?
 - Do they have continuous integration?
 
-## Hardware and software
+## 💻Hardware and software
 - Will you be able to work on any OS you choose from?
 - Will you be able to pick a computer you like?
 - How often will my computer or company phone will be renewed?
@@ -81,7 +81,7 @@ programmer among salesmen etc?
   - Jira?
   - Other software you like / you don't
 
-## Company culture
+## 🙇Company culture
 - Does company care about values (both company's and employee's) during recruitment?
   - Are people hired only by skills or maybe also soft skills?
 - Does company have written culture book (set of established rules to follow)?
@@ -105,7 +105,7 @@ programmer among salesmen etc?
   - Courses
   - Certificates
 
-## Working hours
+## ⏱️Working hours
 - Is the employer able to give you crunching hours?
   - Has it happened in the project/team you are applying for?
 - What are the working hours?
@@ -113,7 +113,7 @@ programmer among salesmen etc?
   - Can you work longer one day to leave earlier another day?
 - Are requested overhours paid or only collected? If paid, will it be 100%, 150%, 200% etc?
   
-## Team's work culture
+## 🤼Team's work culture
 - How big is the team?
 - Is the team divided into roles?
   - Does the team include designers, managers?
@@ -128,7 +128,7 @@ programmer among salesmen etc?
   - Will you be able to propose ideas?
 - Does the team have established some processes, like QA, planning, code review, documentation standards?
   
-## Office
+## 🏢Office
 - Are there fresh fruits/snacks/drinks/ whatever you like?
 - Is the coffee good :)
 - Are there any chill rooms?
@@ -140,16 +140,16 @@ programmer among salesmen etc?
 - Are there quiet zones in the office
 - Is there a shower?
 
-## Trips
+## ✈️Trips
 - Are there company business trips?
 - Are they obligatory?
 - How trips costs will be refund?
 
-## Extra
+## 🍻Extra
 - Are you going to be spied on by your employer ;)
 - How is the traffic to the office
 
-## Extra tips
+## 🤞Extra tips
 - Always ask to talk directly to the team
 - Be sceptic, especially if you're talking to recruiter/manager
 - Don't believe if you're promised that "something is not there, but will be for sure"
