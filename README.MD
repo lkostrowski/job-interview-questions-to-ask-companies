@@ -25,12 +25,13 @@ working there.
 - Who will your manager be?
 - How many managers will you have and what are their qualifications?
 - How does the decision-making process look?
-- Will your managers/bosses do micromanagement?
+- Will your managers/bosses do micromanagement? (Don't ask it directly)
 - Are you going to work with developers from different countries and cultures?
 - Does the company support the community?
 - Is the team specialized or rather language-agnostic?
 - Does the company contribute to open source?
 - Does the company have open source code to preview?
+- How many people in the company work there less than 6 months?
 - Do people leave the company often?
 - Why did the person for whose position you're applying leave?
 - Will you be able to change your team/project if you don't like it?
@@ -59,10 +60,12 @@ programmer among salesmen etc?
 - What technologies are used in the project you are applying for?
 - Is there legacy code and will you work with it?
 - Do they write tests?
+- How long will it take to understand the codebase, to become productive?
 - Is the project you are applying for covered with tests?
 - First-day commit
   - Will you be able to setup the project in a few hours, or will it take weeks?
   - Will you wait for access/credentials hours/days, or weeks/months? 
+  - How long will it take to make your first production deploy?
 - How is the project automated? 
 - How often are there releases?
 - Do they have continuous integration?
@@ -100,6 +103,9 @@ programmer among salesmen etc?
 - Will you know your boss?
 - How does the company handle conflicts?
 - Do interns work there and how many?
+- How often would my manager have one-on-ones with me?
+- How will company know about your progress, good/bad work?
+  - Will you know about it? When? Who will talk to you about it?
 - Does company invest in developers?
   - Paid conferences (and paid time)
   - Courses
@@ -122,11 +128,13 @@ programmer among salesmen etc?
 - Can you pick technology?
 - Are the used technologies usually open source or in-house?
 - Does the team invest some time in self-development?
-- Does the team use any Extreme Programming methods e.g. Pair Programming?
+- Does the team use any Extreme Programming methods e.g. Pair Programming?  
 - Is there a QA department?
+- Is there dedicated DevOps engineer?
 - How much impact will you have on project development?
   - Will you be able to propose ideas?
 - Does the team have established some processes, like QA, planning, code review, documentation standards?
+- How company balance new features and maintenance
   
 ##  🏢Office
 - Are there fresh fruits/snacks/drinks/ whatever you like?
