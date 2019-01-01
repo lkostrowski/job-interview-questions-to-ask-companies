@@ -40,6 +40,11 @@ working there.
 - Who is responsible if some crisis occurs and what could the consequences be?
 - Will you work with other developers (especially related to your field) or will you be a single
 programmer among salesmen etc?
+- What are the company's plans for next 1-2 years and how it will affect your work?
+- How will your personal development look like? 
+  - Will you be promoted in technical fields or maybe management/business ones? How does company see this?
+  - Will you be able to change between different development fields, like changing languages, technologies etc?
+- What are the factors for promotion? Results or rather time spent in the company?
 
 ## 💰 Salary and benefits
 - What kind of contracts can you choose from?
