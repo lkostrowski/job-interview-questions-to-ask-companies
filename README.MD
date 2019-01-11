@@ -17,6 +17,8 @@ Notice that my points may not be obvious for people in various countries, especi
 Also, many questions shouldn't be asked and you need to be careful. Many of these points are better to ask anonymously or your colleagues
 working there.
 
+Visit [my blog](https://medium.com/lukasz-ostrowski-blog) for series of articles where I describe them in detail (currently in Polish only)
+
 **Feel free to contribute**
 
 ## 🚀 General
