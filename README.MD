@@ -1,4 +1,4 @@
-# Interview questions for future employers 😲
+# Interview questions to ask future employers 😲
 
 #### 💡 What's behind the idea 
 
