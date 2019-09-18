@@ -169,3 +169,7 @@ programmer among salesmen etc?
 - Be sceptic, especially if you're talking to recruiter/manager
 - Don't believe if you're promised that "something is not there, but will be for sure"
 - Get "package.json" or other dependency list if possible
+
+## Extras
+- [Joel Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
+- [Reverse Interview](https://github.com/viraptor/reverse-interview) - another repo like this
