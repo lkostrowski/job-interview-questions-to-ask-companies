@@ -47,6 +47,7 @@ programmer among salesmen etc?
   - Will you be promoted in technical fields or maybe management/business ones? How does company see this?
   - Will you be able to change between different development fields, like changing languages, technologies etc?
 - What are the factors for promotion? Results or rather time spent in the company?
+- Where do you see the company in the next 5/10 years?
 
 ## 💰 Salary and benefits
 - What kind of contracts can you choose from?
@@ -76,6 +77,12 @@ programmer among salesmen etc?
 - How is the project automated? 
 - How often are there releases?
 - Do they have continuous integration?
+- Is your infrastructure setup under version control / available as code?
+- Tell me about your technical principles or vision.
+- How do you prepare for disaster recovery?
+- How do you track bugs?
+- How do you integrate and deploy changes? Is it CI/CD?
+- How do you manage dependencies?
 
 ## 💻 Hardware and software
 - Will you be able to work on any OS you choose from?
@@ -117,6 +124,8 @@ programmer among salesmen etc?
   - Paid conferences (and paid time)
   - Courses
   - Certificates
+- What do you think are the gaps in the company culture?
+- Are there any company-wide resources for learning available, like ebooks subscriptions, or online courses?
 
 ##  ⏱️Working hours
 - Is the employer able to give you crunching hours?
@@ -141,7 +150,8 @@ programmer among salesmen etc?
 - How much impact will you have on project development?
   - Will you be able to propose ideas?
 - Does the team have established some processes, like QA, planning, code review, documentation standards?
-- How company balance new features and maintenance
+- How company balance new features and maintenance?
+- What's the best and what's the worst aspect of working in this role / team / company?
   
 ##  🏢Office
 - Are there fresh fruits/snacks/drinks/ whatever you like?
