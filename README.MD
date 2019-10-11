@@ -42,11 +42,12 @@ Visit [my blog](https://ostrowski.ninja/) for series of articles where I describ
 - Who is responsible if some crisis occurs and what could the consequences be?
 - Will you work with other developers (especially related to your field) or will you be a single
 programmer among salesmen etc?
-- What are the company's plans for next 1-2 years and how it will affect your work?
+- What are the company's plans for next 1-2-5-10 years and how it will affect your work?
 - How will your personal development look like? 
   - Will you be promoted in technical fields or maybe management/business ones? How does company see this?
   - Will you be able to change between different development fields, like changing languages, technologies etc?
 - What are the factors for promotion? Results or rather time spent in the company?
+
 
 ## 💰 Salary and benefits
 - What kind of contracts can you choose from?
@@ -75,7 +76,12 @@ programmer among salesmen etc?
   - How long will it take to make your first production deploy?
 - How is the project automated? 
 - How often are there releases?
-- Do they have continuous integration?
+- What is your infrastructure setup under version control / available as code?
+- What are your technical principles or visions?
+- How do you prepare for disaster recovery?
+- How do you track bugs?
+- How do you integrate and deploy changes? Is it CI/CD?
+- How do you manage dependencies?
 
 ## 💻 Hardware and software
 - Will you be able to work on any OS you choose from?
@@ -117,6 +123,8 @@ programmer among salesmen etc?
   - Paid conferences (and paid time)
   - Courses
   - Certificates
+- What do you think are the gaps in the company culture?
+- Are there any company-wide resources for learning available, like ebooks subscriptions, or online courses?
 
 ##  ⏱️Working hours
 - Is the employer able to give you crunching hours?
@@ -141,7 +149,8 @@ programmer among salesmen etc?
 - How much impact will you have on project development?
   - Will you be able to propose ideas?
 - Does the team have established some processes, like QA, planning, code review, documentation standards?
-- How company balance new features and maintenance
+- How company balance new features and maintenance?
+- What's the best and what's the worst aspect of working in this role / team / company?
   
 ##  🏢Office
 - Are there fresh fruits/snacks/drinks/ whatever you like?
