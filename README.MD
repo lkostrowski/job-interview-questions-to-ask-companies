@@ -47,6 +47,11 @@ programmer among salesmen etc?
   - Will you be promoted in technical fields or maybe management/business ones? How does company see this?
   - Will you be able to change between different development fields, like changing languages, technologies etc?
 - What are the factors for promotion? Results or rather time spent in the company?
+- What model you will work with:
+  - Company's product
+  - Product made for company's client 
+  - Body leasing (outsourcing)
+  - Team leasing (team outsourcing)
 
 
 ## 💰 Salary and benefits
